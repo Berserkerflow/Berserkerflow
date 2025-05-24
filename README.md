@@ -11,12 +11,8 @@ I’m now pursuing a career in cybersecurity with roles that leverage this dual 
 
 
 | Skill (Offensive)                             | Associated Project         |
-|Windows Persistance Techniques                 |
-| --------------------------------------------- | <a href="https://google.com">Detection Lab</a>|
-| ----------------------------------------------| SOC Automation Lab|
-|-----------------------------------------------| SOC Automation Lab|
-| --------------------------------------------- | SOC Automation Lab|
-| ----------------------------------------------- SOC Automation Lab|
+
+| Windows Persistance Techniques <a href="https://github.com/Berserkerflow/RedTeamLabs/blob/main/Windows%20Local%20Persistence%20Techniques">Lab</a>|
 
 ## Tools
 --
